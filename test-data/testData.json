@@ -1,0 +1,13 @@
+{
+  "siteData": {
+    "baseUrl": "https://rahulshettyacademy.com/seleniumPractise/#/",
+    "bannerText": "GREENKART"
+  },
+  "appData": {
+    "defaultSearchVegetable": "beans",
+    "checkoutCountry": "India",
+    "orderSuccessText": "Thank you, your order has",
+    "cartSummaryItems": "1",
+    "cartSummaryPrice": "164"
+  }
+}
